@@ -3,13 +3,10 @@ Team Name: Retail Analytics
 
 Team Size: 4 
 
-1. Swapnil Salsankar 
-
-2. Dhruvi Bavaria 
-
-3. Avani Kala 
-
-4. Anirudh Balasubramaniam 
+1. Swapnil Salsankar: 002747372
+2. Dhruvi Bavaria: 002767470
+3. Avani Kala: 002772623
+4. Anirudh Balasubramaniam: 002734105
 
 Topic: Electronics & Groceries Inventory tracking system 
 
