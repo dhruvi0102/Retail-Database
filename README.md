@@ -1,28 +1,25 @@
+Team Name: Retail Analytics
+Team Size: 4
+1.	Swapnil Salsankar: 002747372
+2.	Dhruvi Bavaria: 002767470
+3.	Avani Kala: 002772623
+4.	Anirudh Balasubramaniam: 002734105
+Topic: Electronics & Groceries Inventory tracking system
+Purpose:
+The purpose of the project is to help new incoming graduate and undergraduate students with lowest price for groceries, electronics, and household items in stores. 
 
-Team Name: Retail Analytics								 
+Table Explanation:
 
-Team Size: 4 
+•	Retailers: This table will consist of data about the stores and retailers shop in and near Boston. 
+•	Electronics/Groceries/Household:  We will incorporate items information in these tables considering specific retailers from Retailers table. This database is supposed to show mainly the prices, quantity, ingredients of items.
+•	Branch: This table consists of branch name and location of the Store. 
+•	Electronics Sale: As electronics are costlier and their prices differ month to month, we have kept this table so that students can figure out in which month would they like to buy electronic and when the prices are low and sales are high.
 
-1. Swapnil Salsankar: 002747372
-2. Dhruvi Bavaria: 002767470
-3. Avani Kala: 002772623
-4. Anirudh Balasubramaniam: 002734105
-
-Topic: Electronics & Groceries Inventory tracking system 
-
-Purpose:  
-
-The purpose of the project is to assist new incoming graduate and undergraduate students with finding fundamental necessities in the wake of coming to the US which incorporates items such as food, groceries, stationary and electronic items. 
-
-We will incorporate information considering specific retailers like Walmart, Costco, Target, Patel Siblings, Bj's, Dollar Tree. First authentic information will give understudies a thought regarding the offers and arrangements as well as from which retailer they get the best quality item inside financial plan. The information will give them fundamental thought for desired thing, and they will not have to look at the estimate of each spot physically. Branch subtleties will likewise be incorporated so they can sort out the travel cost and visit the retailers. 
-
-As a result of this what we will achieve is that students will be able to find the best prices among all the retailers. Furthermore, which retailer has sold an ample number of products and provides the best offers among all the retailers. 
-
+Our goal is to help students with the best time to buy the items for the lowest price among all the retailers. Furthermore, which retailer has sold an ample number of products and provides the best offers among all the retailers would be shown.
 Tentative Tables: Retailers, Electronics, Electronics Sales, Groceries, Household Items, Branch etc.
 
-Explanation of Tables:
-Retailers: Will show name of retailers and it’s type for students to understand what all will be available at that store
-Electronics/Groceries/Household Items : Will shows details of respective items, prices, features etc.
-Electronic Sales: As electronics are costlier and there prices differ month to month we have kept this table so students can figure out in which month would they like to buy electronic when the prices are low and sales are high.
+![Updates Diagram for DMDD (1)](https://user-images.githubusercontent.com/113712334/194412599-204f6f24-2ab4-444f-a1c8-09bc841f1eab.jpg)
 
-![usecase Diagram](https://user-images.githubusercontent.com/113712334/194400887-6c3a0a16-79c0-47c3-bdf1-5055fa9e00a9.jpg)
+Below is the Explanation for the Sales table:
+
+![image](https://user-images.githubusercontent.com/113712334/194412991-220357b4-8945-4f37-b1df-0af9b728f8c5.png)
