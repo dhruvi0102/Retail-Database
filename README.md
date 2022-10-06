@@ -21,5 +21,5 @@ Tentative Tables: Retailers, Electronics, Electronics Sales, Groceries, Househol
 ![Updates Diagram for DMDD (1)](https://user-images.githubusercontent.com/113712334/194412599-204f6f24-2ab4-444f-a1c8-09bc841f1eab.jpg)
 
 Below is the Explanation for the Sales table:
+![image](https://user-images.githubusercontent.com/113712334/194414742-28e1303c-5ae1-4389-b4a4-f07814e87fab.png)
 
-![image](https://user-images.githubusercontent.com/113712334/194412991-220357b4-8945-4f37-b1df-0af9b728f8c5.png)
