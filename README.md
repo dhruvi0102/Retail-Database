@@ -18,10 +18,11 @@ We will incorporate information considering specific retailers like Walmart, Cos
 
 As a result of this what we will achieve is that students will be able to find the best prices among all the retailers. Furthermore, which retailer has sold an ample number of products and provides the best offers among all the retailers. 
 
-Tentative Tables: Retailers, Electronics, Electronics Sales, Groceries, Household Items, Branch etc 
+Tentative Tables: Retailers, Electronics, Electronics Sales, Groceries, Household Items, Branch etc.
 
+Explanation of Tables:
+Retailers: Will show name of retailers and it’s type for students to understand what all will be available at that store
+Electronics/Groceries/Household Items : Will shows details of respective items, prices, features etc.
+Electronic Sales: As electronics are costlier and there prices differ month to month we have kept this table so students can figure out in which month would they like to buy electronic when the prices are low and sales are high.
 
-![image](https://user-images.githubusercontent.com/113712334/192116060-56e3605c-ba3f-408e-a878-c0a7bb3476a2.png)
-
-
- 
+![usecase Diagram](https://user-images.githubusercontent.com/113712334/194400887-6c3a0a16-79c0-47c3-bdf1-5055fa9e00a9.jpg)
